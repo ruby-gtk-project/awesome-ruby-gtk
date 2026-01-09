@@ -14,7 +14,7 @@ tbc...
 
 ## Tutorials
 
-tbc...
+* [how-to-build-desktop-applications-in-ruby](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby) - An entire repo from rubyconf2024
 
 ## Similar lists
 
