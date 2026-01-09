@@ -5,8 +5,8 @@ A list of Ruby GTK projects.
 
 ## Apps
 
-[kuiq](https://github.com/mperham/kuiq) - A sidekiq monitor [featuring Glimmer DSL]
-[rubio](https://github.com/kojix2/rubio-radio/tree/main) - Radio app [featuring Glimmer DSL]
+* [kuiq](https://github.com/mperham/kuiq) - A sidekiq monitor [featuring Glimmer DSL]
+* [rubio](https://github.com/kojix2/rubio-radio/tree/main) - Radio app [featuring Glimmer DSL]
 
 ## Libraries
 
