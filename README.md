@@ -5,7 +5,7 @@ A list of Ruby GTK projects.
 
 ## Apps
 
-tbc...
+[kuiq](https://github.com/mperham/kuiq) - A sidekiq monitor [featuring Glimmer DSL]
 
 ## Libraries
 
@@ -14,7 +14,7 @@ tbc...
 
 ## Tutorials
 
-* [how-to-build-desktop-applications-in-ruby](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby) - An entire repo from rubyconf2024
+* [how-to-build-desktop-applications-in-ruby](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby) - An entire repo from rubyconf2024  [featuring Glimmer DSL]
 
 ## Similar lists
 
